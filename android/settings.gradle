@@ -1,0 +1,3 @@
+rootProject.name = 'WhereAreWe'
+
+include ':app'
